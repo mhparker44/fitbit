@@ -5,6 +5,10 @@ After Google acquired Fitbit, there is no web-based dashboard to view your healt
 
 The goal of this project is to provide sample code that can be used to process this data.
 
+# Step 0: Understand folder format. 
+Data is exported into a folder called "takeout".
+An example is in this directory.
+
 # Step 1: Clean the data 
 The data is sent in individual files for each day. In my case, that meant thousands of files from 2020 to 2025.
 We first use python to aggregate these daily files into one dataframe for processing.
