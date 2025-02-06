@@ -13,6 +13,7 @@ The data is sent in individual files for each day. In my case, that meant thousa
 We first use python to aggregate these daily files into one dataframe for processing.
 
 # Step 2: Visualize the data
+Plot scatterplots and bar graphs as needed.
 
 # Step 3: Analyzing for anomolies
 I am not a doctor and this is not medical advice. If you see something abnormal, please ask a medical professional.
