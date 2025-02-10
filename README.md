@@ -19,7 +19,7 @@ Plot scatterplots and bar graphs as needed.
 I am not a doctor and this is not medical advice. If you see something abnormal, please ask a medical professional.
 
 # Step 4: Predicting future trends
-Based on heartrate and step data
+Based on heartrate and step data. Build models based on "normal" trends (within 1 to 2 std deviations).
 
 # Step 5: Take Action
 Make an actionable plan to improve your fitness.
